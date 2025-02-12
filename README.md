@@ -108,7 +108,7 @@ If you're looking for the starter files to begin working on this project, you ca
 <div align="right">
   
 ## Author
-   [JEET AHIRWAR](https://github.com/JEETAHIRWAR)
+   [Deepak Kumar Sahu]([https://github.com/RepoWanderer/Brainwave_Matrix_Intern/edit/main/README.md])
 
 </div>
 
